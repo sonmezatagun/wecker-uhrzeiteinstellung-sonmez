@@ -1,4 +1,4 @@
-# Pflichtenheft – Uhrzeiteinstellung (Wecker)
+# Pflichtenheft – Uhrzeiteinstellunge für Wecker
 
 ## 1. Einstellmodus
 - **Auslösung**: `SET` ≥ 2s → Modus `TIME_SET`.

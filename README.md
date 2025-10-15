@@ -6,7 +6,7 @@ von Atagün Sönmez
 *Repository*
 https://github.com/sonmezatagun/wecker-uhrzeiteinstellung-sonmez/tree/main 
 
-Teilfunktionalitäten
+**Teilfunktionalitäten**
 1. **Einstellmodus betreten/verlassen** (SET-Taste)
 2. **Stunden einstellen** (↑/↓, mit Überlauf 23→00 / 00→23)
 3. **Minuten einstellen** (↑/↓, mit Überlauf 59→00 / 00→59)

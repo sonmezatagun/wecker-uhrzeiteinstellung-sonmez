@@ -1,4 +1,4 @@
-# Lastenheft – Uhrzeiteinstellung (Wecker)
+# Lastenheft – Uhrzeiteinstellunge für Wecker
 
 1. **Ich kann die Uhrzeit einfach einstellen**, ohne komplizierte Menüs.
    - Die aktive Stelle (Stunden/Minuten) ist **klar erkennbar** (blinkt).

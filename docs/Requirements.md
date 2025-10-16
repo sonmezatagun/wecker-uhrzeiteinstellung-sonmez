@@ -17,7 +17,7 @@
     <tr><th>Nr.</th><th>Jira-Referenz</th><th>Titel</th><th>Beschreibung</th></tr>
   </thead>
   <tbody>
-    <tr class="muss"><td>1.1</td><td>TIME-01</td><td>Einstellmodus starten</td><td>Durch langes Drücken (≥2 s) der SET-Taste wird der Einstellmodus für die Uhrzeit gestartet.</td></tr>
+    <tr class="muss"><td>1.1</td><td>TIME-01</td><td>Einstellmodus starten</td><td>Durch Drücken (≥2 s) der SET-Taste wird der Einstellmodus für die Uhrzeit gestartet.</td></tr>
     <tr class="muss"><td>1.2</td><td>TIME-02</td><td>Einstellmodus beenden (Speichern)</td><td>Mit OK wird gespeichert und zum Normalmodus gewechselt.</td></tr>
     <tr class="muss"><td>1.3</td><td>TIME-03</td><td>Einstellmodus abbrechen</td><td>Mit Zurück oder nach 10 s Inaktivität wird abgebrochen (ohne Speichern).</td></tr>
     <tr class="muss"><td>2.1</td><td>TIME-04</td><td>Stunden einstellen</td><td>↑ erhöht, ↓ verringert die Stunden (0–23). Überlauf 23↑→00, 00↓→23.</td></tr>

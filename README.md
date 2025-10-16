@@ -3,10 +3,7 @@
 Software Engineering Projekt (ws 25-26)
 von Atagün Sönmez
 
-*Repository*
-https://github.com/sonmezatagun/wecker-uhrzeiteinstellung-sonmez/tree/main 
-
-{Github Repository} {repo}
+[Github Repository](https://github.com/sonmezatagun/wecker-uhrzeiteinstellung-sonmez/tree/main)
 
 **Teilfunktionalitäten**
 1. Einstellmodus betreten/verlassen (SET-Taste)

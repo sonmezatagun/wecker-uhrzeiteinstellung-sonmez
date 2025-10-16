@@ -21,7 +21,7 @@
     <tr class="muss"><td>1.2</td><td>TIME-02</td><td>Einstellmodus beenden (Speichern)</td><td>Mit OK wird gespeichert und zum Normalmodus gewechselt.</td></tr>
     <tr class="muss"><td>1.3</td><td>TIME-03</td><td>Einstellmodus abbrechen</td><td>Mit Zurück oder nach 10 s Inaktivität wird abgebrochen (ohne Speichern).</td></tr>
     <tr class="muss"><td>2.1</td><td>TIME-04</td><td>Stunden einstellen</td><td>↑ erhöht, ↓ verringert die Stunden (0–23). Überlauf 23↑→00, 00↓→23.</td></tr>
-    <tr class="muss"><td>2.2</td><td>TIME-05</td><td>Zu Minuten wechseln</td><td>Kurzer SET-Druck wechselt von Stunden zu Minuten.</td></tr>
+    <tr class="muss"><td>2.2</td><td>TIME-05</td><td>Zu Minuten wechseln</td><td>SET-Druck wechselt von Stunden zu Minuten.</td></tr>
     <tr class="muss"><td>2.3</td><td>TIME-06</td><td>Minuten einstellen</td><td>↑ erhöht, ↓ verringert Minuten (0–59). Überlauf 59↑→00, 00↓→59.</td></tr>
     <tr class="soll"><td>2.4</td><td>TIME-07</td><td>Schnelllauf</td><td>Tastendruck (≥1 s) bewirkt Schnelllauf (≥5 Schritte/s).</td></tr>
     <tr class="muss"><td>3.1</td><td>TIME-08</td><td>Persistentes Speichern</td><td>Gespeicherte Uhrzeit wird in die RTC geschrieben und bleibt nach Stromverlust erhalten.</td></tr>

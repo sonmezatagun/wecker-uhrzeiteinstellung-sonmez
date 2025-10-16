@@ -61,12 +61,12 @@
 
 | Requirement-Nr.       | Zusammenhang / Abhängigkeit                                                                  |
 |-------------------------|----------------------------------------------------------------------------------------------|
-| 1.1 → 2., 3., 4. | Einstellmodus (1.1) ist Voraussetzung für Einstellen, Speichern und Formatwechsel.           |
+| 1.1 → 2., 3., 4. | Einstellmodus (1.1) ist Voraussetzung für Einstellen, Speichern und Formatwechsel.                  |
 | 2.1, 2.3 → 3.1          | Änderungen (2.1/2.3) müssen gespeichert werden können (3.1).                                 |
 | 1.2, 1.3 → 3.2          | Beenden/Abbruch (1.2/1.3) bestimmen, ob alte Zeit erhalten bleibt (3.2).                     |
 | 4.1 → 4.2               | AM/PM-Anzeige (4.2) ist nur im 12-h-Modus (4.1) relevant.                                    |
 | 5.1 → 1.2               | Feedback (5.1) wird beim erfolgreichen Speichern (1.2) ausgelöst.                            |
-| NF01 ↔ NF02             | Reaktionszeit (≤200 ms) setzt gut gewählte Entprellung (30–50 ms) voraus.                      |
+| NF01 ↔ NF02             | Reaktionszeit (≤200 ms) setzt gut gewählte Entprellung (30–50 ms) voraus.                    |
 
 
 
@@ -75,7 +75,7 @@
 | Requirement-Nr. | Konfliktbeschreibung                                                                       |
 |-----------------|--------------------------------------------------------------------------------------------|
 | 4.3 ↔ NF03      | Hohes Blinktempo darf die Lesbarkeit nicht verschlechtern.                                 |
-| 5.2 ↔ NF09      | Display-Dimmung spart Energie, darf die Bedienbarkeit jedoch nicht beeinträchtigen.        |
+| 5.2 ↔ NF04      | Display-Dimmung spart Energie, darf die Bedienbarkeit jedoch nicht beeinträchtigen.        |
 | NF01 ↔ NF09     | Sehr schnelle Aktualisierung kann den Energieverbrauch erhöhen.                            |
 
 

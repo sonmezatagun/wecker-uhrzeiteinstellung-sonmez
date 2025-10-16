@@ -47,7 +47,7 @@
     <tr class="muss"><td>1.2</td><td>TIME-NF02</td><td>Entprellung</td><td>Tastenentprellung 30–50 ms.</td></tr>
     <tr class="soll"><td>2.1</td><td>TIME-NF03</td><td>Blinkfrequenz</td><td>Aktives Feld blinkt mit 2 Hz ±0,5 Hz.</td></tr>
     <tr class="soll"><td>2.2</td><td>TIME-NF04</td><td>Lesbarkeit</td><td>Kontrast der Anzeige ≥ 4.5:1; Ziffernhöhe ≥ 10 mm.</td></tr>
-    <tr class="soll"><td>2.3</td><td>TIME-NF05</td><td>Sprache</td><td>Texte/Labels auf Deutsch, einfache Wortwahl.</td></tr>
+    <tr class="soll"><td>2.3</td><td>TIME-NF05</td><td>Sprache</td><td>Texte/Labels auf Deutsch.</td></tr>
     <tr class="soll"><td>3.1</td><td>TIME-NF06</td><td>RTC-Genauigkeit</td><td>Zeitabweichung ≤ ±20 ppm (~±50 s/Monat).</td></tr>
     <tr class="muss"><td>3.2</td><td>TIME-NF07</td><td>Dauerhafte Speicherung</td><td>Einstellungen überstehen Batteriewechsel.</td></tr>
     <tr class="kann"><td>4.1</td><td>TIME-NF08</td><td>Barrierefreiheit</td><td>Anzeige ist für Farbenblinde/Sehschwache gut erkennbar.</td></tr>

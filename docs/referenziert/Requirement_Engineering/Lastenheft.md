@@ -3,7 +3,7 @@
 1. **Ich kann die Uhrzeit einstellen**.
    - Die aktive Stelle (Stunden/Minuten) ist **klar erkennbar** (blinkt).
 2. **Ich kann die Stunden und Minuten ändern**,
-   - durch Tippen (±1) oder langen Druck für **schnellen Lauf**.
+   - durch Tippen (±1) für **schnellen Lauf**.
 3. **Ich werde nicht verwirrt durch Grenzen**:
    - Nach 23 kommt 00, nach 59 kommt 00; zurück ebenso.
 4. **Ich kann zwischen 12- und 24-Stunden-Anzeige wählen**.

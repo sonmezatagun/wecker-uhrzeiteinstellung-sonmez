@@ -61,7 +61,7 @@
 
 | Requirement-Nr.       | Zusammenhang / Abhängigkeit                                                                  |
 |-------------------------|----------------------------------------------------------------------------------------------|
-| 1.1 → 2.*, 3.*, 4.* | Einstellmodus (1.1) ist Voraussetzung für Einstellen, Speichern und Formatwechsel.           |
+| 1.1 → 2., 3., 4. | Einstellmodus (1.1) ist Voraussetzung für Einstellen, Speichern und Formatwechsel.           |
 | 2.1, 2.3 → 3.1          | Änderungen (2.1/2.3) müssen gespeichert werden können (3.1).                                 |
 | 1.2, 1.3 → 3.2          | Beenden/Abbruch (1.2/1.3) bestimmen, ob alte Zeit erhalten bleibt (3.2).                     |
 | 4.1 → 4.2               | AM/PM-Anzeige (4.2) ist nur im 12-h-Modus (4.1) relevant.                                    |

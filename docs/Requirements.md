@@ -74,7 +74,7 @@
 
 | Requirement-Nr. | Konfliktbeschreibung                                                                       |
 |-----------------|--------------------------------------------------------------------------------------------|
-| 2.2/2.3 ↔ NF03  | Hohes Blinktempo darf die Lesbarkeit nicht verschlechtern.                                 |
+| 4.3 ↔ NF03      | Hohes Blinktempo darf die Lesbarkeit nicht verschlechtern.                                 |
 | 5.2 ↔ NF09      | Display-Dimmung spart Energie, darf die Bedienbarkeit jedoch nicht beeinträchtigen.        |
 | NF01 ↔ NF09     | Sehr schnelle Aktualisierung kann den Energieverbrauch erhöhen.                            |
 

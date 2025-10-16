@@ -8,7 +8,7 @@
 
 **Legende:** <p class="muss">Muss</p> <p class="soll">Soll</p> <p class="kann">Kann</p>
 
----
+
 
 ## 1. Funktionale Requirements
 
@@ -34,7 +34,7 @@
   </tbody>
 </table>
 
----
+
 
 ## 2. Nicht-funktionale Requirements
 
@@ -55,7 +55,7 @@
   </tbody>
 </table>
 
----
+
 
 ## 3. Abhängigkeiten zwischen Requirements
 
@@ -68,7 +68,7 @@
 | 5.1 → 1.2               | Feedback (5.1) wird beim erfolgreichen Speichern (1.2) ausgelöst.                            |
 | NF01 ↔ NF02             | Reaktionszeit (≤200 ms) setzt gut gewählte Entprellung (30–50 ms) voraus.                      |
 
----
+
 
 ## 4. Konflikte zwischen Requirements
 
@@ -78,7 +78,7 @@
 | 5.2 ↔ NF09      | Display-Dimmung spart Energie, darf die Bedienbarkeit jedoch nicht beeinträchtigen.        |
 | NF01 ↔ NF09     | Sehr schnelle Aktualisierung kann den Energieverbrauch erhöhen.                            |
 
----
+
 
 ## 5. Zusammengehörigkeiten
 

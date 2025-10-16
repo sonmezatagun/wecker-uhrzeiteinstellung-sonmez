@@ -23,7 +23,7 @@
     <tr class="muss"><td>2.1</td><td>TIME-04</td><td>Stunden einstellen</td><td>↑ erhöht, ↓ verringert die Stunden (0–23). Überlauf 23↑→00, 00↓→23.</td></tr>
     <tr class="muss"><td>2.2</td><td>TIME-05</td><td>Zu Minuten wechseln</td><td>Kurzer SET-Druck wechselt von Stunden zu Minuten.</td></tr>
     <tr class="muss"><td>2.3</td><td>TIME-06</td><td>Minuten einstellen</td><td>↑ erhöht, ↓ verringert Minuten (0–59). Überlauf 59↑→00, 00↓→59.</td></tr>
-    <tr class="soll"><td>2.4</td><td>TIME-07</td><td>Schnelllauf</td><td>Langer Tastendruck (≥1 s) bewirkt Schnelllauf (≥5 Schritte/s).</td></tr>
+    <tr class="soll"><td>2.4</td><td>TIME-07</td><td>Schnelllauf</td><td>Tastendruck (≥1 s) bewirkt Schnelllauf (≥5 Schritte/s).</td></tr>
     <tr class="muss"><td>3.1</td><td>TIME-08</td><td>Persistentes Speichern</td><td>Gespeicherte Uhrzeit wird in die RTC geschrieben und bleibt nach Stromverlust erhalten.</td></tr>
     <tr class="muss"><td>3.2</td><td>TIME-09</td><td>Rückgängig bei Abbruch</td><td>Bei Abbruch/Timeout bleibt die vorherige Uhrzeit vollständig erhalten.</td></tr>
     <tr class="soll"><td>4.1</td><td>TIME-10</td><td>12/24-h-Umschaltung</td><td>Im Einstellmodus kann zwischen 12-/24-h-Format umgeschaltet werden (↑+↓ ≥1 s).</td></tr>

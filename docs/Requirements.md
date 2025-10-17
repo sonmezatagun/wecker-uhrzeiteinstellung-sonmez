@@ -6,7 +6,7 @@
 
 # Requirements: Uhrzeiteinstellung für Wecker
 
-**Legende:** <p class="muss">Muss</p> <p class="soll">Soll</p> <p class="kann">Kann</p>
+**Legende:** <p class="muss">Muss-Requirement</p> <p class="soll">Soll-Requirement</p> <p class="kann">Kann-Requirement</p>
 
 
 

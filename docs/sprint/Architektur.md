@@ -29,6 +29,6 @@
 | Komponente         | Rolle                         | Verantwortlichkeiten                                                                                 |
 |-------------------|-------------------------------|------------------------------------------------------------------------------------------------------|
 | User Interface     | Präsentationsschicht          | Zeitdarstellung (12/24 h, AM/PM), aktives Feld 2 Hz blinken lassen, Helligkeit dimmen, Feedback anzeigen/auslösen. |
-| TimeSet Logic      | Fach-/Steuer Machine               | Einstellmodus starten/beenden, Stunden/Minuten ±1 & Schnelllauf, 10-s Timeout, 12/24-Umschaltung, Speichern/Abbrechen orchestrieren. |
-| Device Abstraction | Hardware-Interface            | Tasten lesen + Entprellung, periodische Ticks bereitstellen, Display/Buzzer ansteuern.               |
+| TimeSet Logic      | Fach-/SteuerLogik               | Einstellmodus starten/beenden, Stunden/Minuten ±1 & Schnelllauf, 10-s Timeout, 12/24-Umschaltung, Speichern/Abbrechen orchestrieren. |
+| Device Abstraction | Hardware-Interface            | Tasten lesen + Entprellung, Display/Buzzer ansteuern.               |
 | Time Persistence   | Speicher-/Persistenzschicht   | Uhrzeit schreiben, persistente Sicherung (RTC), Datenintegrität bei Abbruch.       |

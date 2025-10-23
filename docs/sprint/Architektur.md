@@ -10,3 +10,4 @@
 
 
 ## Komponentdiagramm
+![Komponentdiagramm](../referenziert/Architecture/Komponentdiagramm.png)

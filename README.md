@@ -9,5 +9,5 @@ von Atagün Sönmez
 1. Einstellmodus betreten/verlassen.
 2. Stunden einstellen.
 3. Minuten einstellen.
-4. 12/24-Stunden-Format umschalten
+4. 12/24-Stunden-Format umschalten.
 5. Speichern, Abbrechen & Auto-Timeout.

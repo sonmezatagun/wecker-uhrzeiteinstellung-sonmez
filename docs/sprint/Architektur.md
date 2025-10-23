@@ -9,5 +9,6 @@
 - Geriye dogru atlamalar veya capraz iletisim yoktur.
 
 
-## Komponentdiagramm
-![Komponentdiagramm](../referenziert/Architecture/Komponentdiagramm.png)
+## [Komponentdiagramm](../referenziert/Architecture/Komponentendiagramm.png)
+![Komponentdiagramm](../referenziert/Architecture/Komponentendiagramm.png)
+

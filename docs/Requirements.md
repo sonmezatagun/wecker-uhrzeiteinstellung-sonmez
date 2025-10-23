@@ -29,7 +29,7 @@
     <tr class="soll"><td>4.1</td><td>TIME-10</td><td>12/24-h-Umschaltung</td><td>Im Einstellmodus kann zwischen 12-/24-h-Format umgeschaltet werden (↑+↓ ≥1 s).</td></tr>
     <tr class="kann"><td>4.2</td><td>TIME-11</td><td>AM/PM-Anzeige</td><td>Im 12-h-Modus wird AM/PM angezeigt.</td></tr>
     <tr class="soll"><td>4.3</td><td>TIME-12</td><td>Aktives Feld blinkt</td><td>Die aktive Stelle (Stunden oder Minuten) blinkt zur Orientierung.</td></tr>
-    <tr class="soll"><td>5.1</td><td>TIME-13</td><td>Feedback beim Speichern</td><td>Nach dem Speichern erfolgt ein kurzes optisches/akustisches Feedback (~200 ms).</td></tr>
+    <tr class="soll"><td>5.1</td><td>TIME-13</td><td>Feedback beim Speichern</td><td>Nach dem Speichern erfolgt ein kurzes optisches Feedback (~200 ms).</td></tr>
     <tr class="kann"><td>5.2</td><td>TIME-14</td><td>Display-Dimmung</td><td>Nach 30 s Inaktivität wird die Displayhelligkeit reduziert.</td></tr>
   </tbody>
 </table>

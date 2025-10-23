@@ -14,7 +14,7 @@
 
 | Komponente         | Requirements (Kapitel-/Nr.)                 | Jira-Referenzen                                       |
 |-------------------|---------------------------------------------|--------------------------------------------------------|
-| User Interface     | 4.2, 4.3, 5.1, 5.2; NF 2.1, 2.2, 2.3, 4.1    | TIME-11, TIME-12, TIME-13, TIME-14; TIME-NF03, -NF04, -NF05, -NF08 |
+| User Interface     | 4.2, 4.3, 5.1, 5.2; NF 2.1, 2.2, 2.3, 4.1    | TIME-11, TIME-12, TIME-13, TIME-14; TIME-NF03, NF04, NF05, NF08 |
 | TimeSet Logic      | 1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 2.4, 4.1       | TIME-01, TIME-02, TIME-03, TIME-04, TIME-05, TIME-06, TIME-07, TIME-10 |
 | Device Abstraction | 4.3, 5.1, 5.2; NF 1.1, 1.2                  | TIME-12, TIME-13, TIME-14; TIME-NF01, TIME-NF02        |
 | Time Persistence   | 3.1, 3.2; NF 3.1, 3.2                        | TIME-08, TIME-09; TIME-NF06, TIME-NF07                |

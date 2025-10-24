@@ -9,8 +9,8 @@
 - Es gibt keine Rücksprünge oder Querkommunikation.
 
 
-## [Komponentdiagramm](../referenziert/Architecture/Komponentendiagramm.png)
-![Komponentdiagramm](../referenziert/Architecture/Komponentendiagramm.png)
+## [Komponentdiagramm](../referenziert/Architecture/Komponentendiagramm2.png)
+![Komponentdiagramm](../referenziert/Architecture/Komponentendiagramm2.png)
 
 | Komponente         | Requirements (Kapitel-/Nr.)                 | Jira-Referenzen                                       |
 |-------------------|---------------------------------------------|--------------------------------------------------------|

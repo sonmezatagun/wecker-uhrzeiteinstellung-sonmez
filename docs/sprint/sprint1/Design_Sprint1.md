@@ -1,20 +1,18 @@
-# Design – Sprint 1
+# Design – Sprint 1 (Wecker-Uhrzeiteinstellung)
 
-Ausgehend von der Architektur (UI → Logic → Device → Persistence) werden für Sprint 1 folgende Design-Komponenten verwendet:
+## 1. Klassendiagramm
 
-## 1. UI
-- **InputHandler**: empfängt Tastenereignisse (Mode, Plus, Minus, OK, Cancel) und ruft den Controller auf.
-- **DisplayAdapter**: zeigt aktuellen Einstellzustand (Stunde/Minute) und Normalanzeige.
+![Klassendiagramm Sprint 1](./ClassDiagramm_Sprint1.jpg)
 
-## 2. Logik
-- **TimeSetController**: zentrale Logik zum Betreten/Verlassen des Einstellmodus, Delegation an Display und Repository.
-- **TimeSetState**: merkt sich, ob Stunde oder Minute editiert wird.
-- **TimeoutHandler**: erkennt Inaktivität und löst Auto-Timeout aus.
+## 2. Sequenzdiagramm
 
-## 3. Device-Abstraction
-- **ButtonDriver**: abstrahiert physische Buttons → InputHandler
-- **DisplayDriver**: nimmt formatierte Ausgaben aus DisplayAdapter entgegen.
+Szenario: Benutzer betritt Einstellmodus, ändert Stunde, wechselt zu Minute, Timeout speichert.
 
-## 4. Persistence
-- **TimeRepository**: speichert die eingestellte Uhrzeit dauerhaft.
+![Sequenzdiagramm Sprint 1](./Sequenzdiagramm_Sprint1.png)
+
+## 3. Kommunikationsdiagramm
+
+![Kommunikationsdiagramm Sprint 1](./Kommunikationsdiagramm_Sprint1.png)
+
+
 

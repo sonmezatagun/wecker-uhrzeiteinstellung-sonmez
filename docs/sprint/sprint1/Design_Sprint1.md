@@ -21,7 +21,7 @@ Szenario: Benutzer betritt Einstellmodus, ändert Stunde, wechselt zu Minute, Ti
 
 ## 3. Kommunikationsdiagramm
 
-![Kommunikationsdiagramm Sprint 1](./Kommunikationsdiagramm_Sprint1.png)
+![Kommunikationsdiagramm Sprint 1](../../referenziert/Design/Kommunikationsdiagramm.png)
 
 
 

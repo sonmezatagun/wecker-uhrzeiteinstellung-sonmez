@@ -8,5 +8,5 @@ Im Sprint 1 werden folgende Requirements umgesetzt:
 - REQ-5: Speichern / Abbrechen / Auto-Timeout (Jira: SCRUM-10)
 
 #
-- REQ-4: Umschalten 12h/24h ist nich in Sprint 1
+- REQ-4: Umschalten 12h/24h ist nicht in Sprint 1
 

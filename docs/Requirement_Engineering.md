@@ -12,8 +12,6 @@ Umsetzungssicht (Pflichtenheft) wider. Beide wurden genutzt, um die funktionalen
 
 ## Teilfunktionalitäten
 
-Auf Basis der Use Cases wurden folgende Teilfunktionalitäten definiert:
-
 1. **Einstellmodus verwalten**  
    (Modus betreten / verlassen, aktuelle Ebene anzeigen)
 2. **Stundenwert ändern**  

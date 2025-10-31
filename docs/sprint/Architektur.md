@@ -32,3 +32,16 @@
 | TimeSet Logic      | Fach-/SteuerLogik               | Einstellmodus starten/beenden, Stunden/Minuten ±1 & Schnelllauf, 10-s Timeout, 12/24-Umschaltung, Speichern/Abbrechen orchestrieren. |
 | Device Abstraction | Hardware-Interface            | Tasten lesen + Entprellung, Display ansteuern.               |
 | Time Persistence   | Speicher-/Persistenzschicht   | Uhrzeit schreiben, persistente Sicherung (RTC), Datenintegrität bei Abbruch.       |
+
+
+
+## Schnittstellendefinition
+
+| Ziel             | Quelle              | Schnittstellen                                                           |
+|------------------|---------------------|---------------------------------------------------------------------------|
+| userInterface    | timeSetLogic        | updateView(mode, hour, minute), showSaved(), showTimeout()               |
+| userInterface    | hardwareAbstraction | buttonInput(buttonId)                                                    |
+| timeSetLogic     | hardwareAbstraction | readButtonState(), readRotary(), readConfirm()                           |
+| timeSetLogic     | timePersistence     | loadTime(): TimeDTO, saveTime(TimeDTO dto)                               |
+| hardwareAbstraction | timePersistence  | loadDisplayConfig()                                                      |
+

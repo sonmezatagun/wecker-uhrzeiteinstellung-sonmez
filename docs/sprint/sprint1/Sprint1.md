@@ -1,6 +1,6 @@
 # Sprint 1 – Requirements
 
-Im Sprint 1 werden folgende Requirements umgesetzt:
+Aus den im Dokument Requirements.md definierten Anforderungen wird für Sprint 1 folgende Teilmenge umgesetzt:
 
 - REQ-1: Einstellmodus betreten und verlassen (Jira: SCRUM-7)
 - REQ-2: Stundenwert erhöhen / verringern (Jira: SCRUM-8)

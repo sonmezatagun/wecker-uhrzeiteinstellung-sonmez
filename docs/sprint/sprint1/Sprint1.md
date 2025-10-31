@@ -10,3 +10,8 @@ Aus den im Dokument Requirements.md definierten Anforderungen wird für Sprint 1
 #
 - REQ-4: Umschalten 12h/24h ist nicht in Sprint 1
 
+## Weitere Dokumente
+
+- [Traceability Matrix – Sprint 1](Traceability_Sprint1.md)
+- [Design – Sprint 1](Design1.md)
+- [Architektur (gesamt)](../Architektur.md)

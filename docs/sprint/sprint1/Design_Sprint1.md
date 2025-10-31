@@ -17,7 +17,7 @@ Die folgende Abbildung zeigt den aktuellen Stand des Klassendiagramms für Sprin
 
 Szenario: Benutzer betritt Einstellmodus, ändert Stunde, wechselt zu Minute, Timeout speichert.
 
-![Sequenzdiagramm Sprint 1](./Sequenzdiagramm_Sprint1.png)
+![Sequenzdiagramm Sprint 1](../../referenziert/Design/Sequenzdiagramm.png)
 
 ## 3. Kommunikationsdiagramm
 

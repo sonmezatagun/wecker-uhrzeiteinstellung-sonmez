@@ -10,7 +10,8 @@ Die folgende Abbildung zeigt den aktuellen Stand des Klassendiagramms für Sprin
 
 
 
-![Klassendiagramm Sprint 1](./ClassDiagramm_Sprint1.jpg)
+![Klassendiagramm Sprint 1](../../referenziert/Design/ClassDiagramm_Sprint1.jpg) 
+
 
 ## 2. Sequenzdiagramm
 

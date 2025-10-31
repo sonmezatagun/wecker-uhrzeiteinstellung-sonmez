@@ -1,4 +1,4 @@
-# Sprint 1 – ausgewählte Requirements
+# Sprint 1 – Requirements
 
 Im Sprint 1 werden folgende Requirements umgesetzt:
 

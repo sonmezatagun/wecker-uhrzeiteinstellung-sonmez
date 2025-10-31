@@ -1,4 +1,4 @@
-# Traceability_Matrix – Sprint 1
+# Traceability Matrix – Sprint 1
 
 | Req-ID | Jira-ID  | Kurzbeschreibung                            | Design-Komponente                         | Testfall-ID |
 |--------|----------|----------------------------------------------|--------------------------------------------|-------------|
